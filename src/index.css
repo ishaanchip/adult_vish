@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: clamp(1.75rem, 2.2vw + 1.2rem, 3rem);
+  line-height: 1.15;
+  margin: 0 0 0.5em;
+}
+
+h3 {
+  font-size: clamp(1.15rem, 1vw + 0.9rem, 1.75rem);
+  line-height: 1.25;
+  margin: 0 0 0.5em;
+}
+
+p {
+  font-size: clamp(0.95rem, 1.4vw + 0.75rem, 1.125rem);
+  line-height: 2;
+  margin: 0 0 1em;
+}

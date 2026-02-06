@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&display=swap");
+
+.home-shell{
+    display: flex;
+    justify-content: space-around;
+    font-family: "Laila", serif;
+    color:black;
+}
