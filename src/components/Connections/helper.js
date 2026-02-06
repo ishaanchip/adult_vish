@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const superSecretPassword = "avishter"
+export const superSecretPassword = "avishter🥕🥕"
 
 //FUNCTIONALITY
 export const delay = (ms) => new Promise((resolve) => {
